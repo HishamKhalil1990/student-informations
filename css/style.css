@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJX6OTTMEM5MWVCZFHPXYJGKR637%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjE1MjgwNDAwIiwiZXhwIjoiMTYxNTMwMjAwMCIsImVuZHBvaW50dXJsIjoiVzlMTWdBNGxHaTJ6MjJ2M3VoNEcxNVJDMmlpLzZrMllKd1ZyWVJwSklSUT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik9UazBNMk5oWkdFdFpUUXpZaTAwWTJaakxXSTNPVGN0WmpReE1qSmpabUptTldKbCIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzZjZDMxNmY2Y2E0YWQ3YmNiZWVkMmJlYjE2NjZlZmE0MjAzM2MyZmQ5MDQwZDM5M2JiNDY5MjIxZmUwZTkzZjgiLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzZjZDMxNmY2Y2E0YWQ3YmNiZWVkMmJlYjE2NjZlZmE0MjAzM2MyZmQ5MDQwZDM5M2JiNDY5MjIxZmUwZTkzZjgiLCJzaGFyaW5naWQiOiJzMlNtU2dsa3FreVp2Ymk1SXVWQk9nIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.TlZOL3NkYi9ueUtHWTQvVVFPVUg3RlBvelJXeTNReXFIQ2xnd3ZBOTVXZz0&encodeFailures=1&srcWidth=&srcHeight=&width=563&height=375&action=Access);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    height: 600px;
+}
+table{
+    border: solid;
+}
+th,td {
+    border: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div, header{
+    background-color: rgba ( 96 , 96 , 96 ,0 .6);
+    color: #eee;
+}
+ul li {
+    display: inline;
+}
+header{
+    text-align: center;
+    position: relative;
+}
+#navUl{
+    position: absolute;
+    right:30px;
+}
+#tableDiv {
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
